@@ -6,6 +6,7 @@ using TaskManagement.Core.Models;
 namespace TaskManagement.API.Controllers;
 using Microsoft.AspNetCore.Authorization;
 
+[Authorize]
 [Route("api/[controller]")]
 [ApiController]
 public class TasksController : ControllerBase

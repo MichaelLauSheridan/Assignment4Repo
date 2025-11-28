@@ -168,3 +168,4 @@ C:\Users\Michael\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.Id
 C:\Users\Michael\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Michael\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Michael\TaskManagement\TaskManagement.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michael\TaskManagement\TaskManagement.API\obj\Debug\net9.0\TaskManagement.API.sourcelink.json
